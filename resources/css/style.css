@@ -1,14 +1,19 @@
-a,h1,h2,h3,p {
+a,h1,h2,h3,p,span {
   font-family: Helvetica, Arial, sans-serif;
   text-align: center;
 }
 
-#Header, .nyc {
+#header, .nyc {
   background-image: url(../images/the-flatiron-building.png);
   background-position: center;
   color: white;
 }
-
+#footer {
+  text-align: left;
+  font-size: 11px;
+  background-color: dimgray;
+  color: white;
+}
 a {
   border-bottom: 1px;
   color: white;
