@@ -19,6 +19,9 @@ a {
   color: white;
   font-size: 18px;
 }
+#header > a {
+  display: block;
+}
 
 h1 {
   color: White;
