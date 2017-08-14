@@ -3,9 +3,10 @@ a,h1,h2,h3,p {
   text-align: center;
 }
 
-#Header {
+#Header, .nyc {
   background-image: url(../images/the-flatiron-building.png);
   background-position: center;
+  color: white;
 }
 
 a {
